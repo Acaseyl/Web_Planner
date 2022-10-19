@@ -7,7 +7,7 @@ The goal of this project is to develop a daily work planner for the hours of 9AM
 ![01-html-css-git-homework-demo](https://github.com/Acaseyl/Web_Planner/blob/main/Planner_Screenshot.JPG)
 
 ## Website
-[Web_Planner](https://acaseyl.github.io/Web-Planner/)
+[Web_Planner](https://acaseyl.github.io/Web_Planner/)
 
 ## Credits
 [Andrew Lawrence](https://www.github.com/acaseyl)
